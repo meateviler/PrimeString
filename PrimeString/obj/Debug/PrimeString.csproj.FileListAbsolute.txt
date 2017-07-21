@@ -1,0 +1,4 @@
+C:\Users\eviler.chuang99\Documents\Visual Studio 2013\codewar\PrimeString\PrimeString\bin\Debug\PrimeString.dll
+C:\Users\eviler.chuang99\Documents\Visual Studio 2013\codewar\PrimeString\PrimeString\bin\Debug\PrimeString.pdb
+C:\Users\eviler.chuang99\Documents\Visual Studio 2013\codewar\PrimeString\PrimeString\obj\Debug\PrimeString.dll
+C:\Users\eviler.chuang99\Documents\Visual Studio 2013\codewar\PrimeString\PrimeString\obj\Debug\PrimeString.pdb

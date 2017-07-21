@@ -1,0 +1,9 @@
+C:\Users\eviler.chuang99\Documents\Visual Studio 2013\codewar\PrimeString\PrimeStringTests\obj\Debug\PrimeStringTests.csprojResolveAssemblyReference.cache
+C:\Users\eviler.chuang99\Documents\Visual Studio 2013\codewar\PrimeString\PrimeStringTests\bin\Debug\PrimeStringTests.dll
+C:\Users\eviler.chuang99\Documents\Visual Studio 2013\codewar\PrimeString\PrimeStringTests\bin\Debug\PrimeStringTests.pdb
+C:\Users\eviler.chuang99\Documents\Visual Studio 2013\codewar\PrimeString\PrimeStringTests\bin\Debug\nunit.framework.dll
+C:\Users\eviler.chuang99\Documents\Visual Studio 2013\codewar\PrimeString\PrimeStringTests\bin\Debug\PrimeString.dll
+C:\Users\eviler.chuang99\Documents\Visual Studio 2013\codewar\PrimeString\PrimeStringTests\bin\Debug\PrimeString.pdb
+C:\Users\eviler.chuang99\Documents\Visual Studio 2013\codewar\PrimeString\PrimeStringTests\bin\Debug\nunit.framework.xml
+C:\Users\eviler.chuang99\Documents\Visual Studio 2013\codewar\PrimeString\PrimeStringTests\obj\Debug\PrimeStringTests.dll
+C:\Users\eviler.chuang99\Documents\Visual Studio 2013\codewar\PrimeString\PrimeStringTests\obj\Debug\PrimeStringTests.pdb
